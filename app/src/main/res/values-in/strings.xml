@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Central SI</string>
+    <string name="logo_unand">Logo UNAND</string>
+    <string name="username">Nama Pengguna</string>
+    <string name="password">Kata Kunci</string>
+    <string name="login">Login</string>
+</resources>
